@@ -18,5 +18,5 @@ Based on the analysis conducted below are few key findings.
 
 •	In conclusion, the analysis provides valuable insights into the factors influencing academic performance, overall passing rates, and the impact of school characteristics within the LGA. 
 
-The Jupyter notebook that we created for the analysis and the CSV files containing the folder called “Resources' folder” are in  PyCitySchool folder. Used Xpert learning assistant and ChatGTP to understand and debug codes when required. 
+The Jupyter notebook created for the analysis, along with the CSV files located in the 'Resources' folder, are in the PyCitySchool folder. I utilized Xpert Learning Assistant and ChatGPT to understand and debug codes when necessary 
 
